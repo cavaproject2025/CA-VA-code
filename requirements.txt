@@ -1,0 +1,7 @@
+gradio==5.34.0
+langchain==0.3.25
+langchain_community==0.3.25
+langchain_core==0.3.65
+langchain_openai==0.3.23
+python-dotenv==1.1.0
+tqdm==4.66.5
